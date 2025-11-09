@@ -4,7 +4,7 @@
 # 🎮 SocialBite  
 **שתפו פעולה, פתרו חידות, וביחד תיצרו את המנה הטעימה בעולם!**
 
-![alt text](Logo.png)
+![alt text](logo.png)
 
 ---
 
