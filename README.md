@@ -4,7 +4,7 @@
 # 🎮 SocialBite  
 **שתפו פעולה, פתרו חידות, וביחד תיצרו את המנה הטעימה בעולם!**
 
-![alt text](תמונה1-1.png)
+![alt text](Logo.png)
 
 ---
 
@@ -24,7 +24,7 @@
 **סגנון:** דו־ממד  
 **משך ממוצע של שלב:** כ־2 דקות
 
-![alt text](<צילום מסך 2025-11-09 050208.png>)
+![alt text](Stage1.png>)
 
 ---
 
